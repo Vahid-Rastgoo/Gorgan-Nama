@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.GorganNama" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/forest</item>
+        <item name="android:windowBackground">@color/forest</item>
+    </style>
+</resources>
